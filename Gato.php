@@ -1,3 +1,3 @@
 <?php
- require_once("Gato.html")
+ require_once("gato.html")
 ?>
